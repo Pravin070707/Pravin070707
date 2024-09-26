@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="800" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h1 align="center">Hi 👋, I'm Pravin B</h1>
 <h3 align="center">An IT student in software engineering learns coding, system design, and problem-solving through practical projects. They develop skills to build and maintain efficient, scalable software solutions.</h3>
 
